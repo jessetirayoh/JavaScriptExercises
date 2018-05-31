@@ -1,1 +1,1 @@
-"# JavaScriptExercises" 
+# JavaScript Exercises
